@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I am currently working on Computer vision projects, exploring this dimension 🔭.
+
+you can connect with me by writing an email to akash.devbanshi@outlook.com
+
+
 <!--
 **devbana/devbana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
