@@ -1,8 +1,16 @@
-### Hi there 👋
+### Hi there 👋,
 
-I am currently working on Computer vision projects, exploring this dimension 🔭.
+I have Experience in automating business process and architect solution to the organization of high repute using 🎰 Artificial Intelligence.
+also Expertise in 📜 Natural Language Processing, have contributed in the projects like
+✉️ Intelligence Mining from Emails
+📟 Crunching numbers to Human understandable summary.
 
-you can connect with me by writing an email to akash.devbanshi@outlook.com
+Have contributed to improve business processes like
+📒 Account Management
+📈 Lead Management
+❤️ Risk Management
+
+and have great knowledge in field of 💾 Industry data models.
 
 
 <!--
