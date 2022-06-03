@@ -1,7 +1,7 @@
 ![MasterHead](https://www.commercient.com/wp-content/uploads/2019/12/deepLearning.gif)
 <h1 align="center">Hi 👋, I'm Akash Devbanshi</h1>
 <h3 align="center">Artificial Intelligence Engineer | Data Scientist</h3>
-<img  align="right" alt="ai" width="200" src="https://cdn.dribbble.com/users/32512/screenshots/4787574/light_ai_design_by_gleb.gif"/>
+<img align="right" alt="ai" width="300" src="https://i.pinimg.com/originals/7a/9b/80/7a9b8077fd3b55d8ab72bdb6864f9448.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devbana&label=Profile%20views&color=0e75b6&style=flat" alt="devbana" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devbana" alt="devbana" /></a> </p>
