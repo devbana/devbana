@@ -20,10 +20,11 @@ Welcome to my GitHub profile – where ideas turn into models, and coffee fuels 
 `MLflow` `Docker` `FastAPI` `Airflow` `PowerBI` `Tableau` `Snowflake` `GCP` `Azure`  
 
 ---
-<!--
+
 ### 📦 Projects & Contributions  
-- 🧠 **[GenAI Chatbot Framework](https://github.com/yourusername/genai-chatbot-framework)** – plug-n-play LLM chatbot  
-- 📊 **[Marketing ROI Analyzer](https://github.com/yourusername/marketing-roi-analyzer)** – MMM using Naïve Bayes  
+- 🧠 **[GenAI Chatbot Framework](https://github.com/devbana/chatbot_genai)** – plug-n-play LLM chatbot  
+- 📊 **[AI Models](https://github.com/devbana/AI_Projects)** – AI Model Notebook for various problems
+<!--
 - 🧾 **[Personal Finance Tracker](https://github.com/yourusername/personal-finance-tracker)** – expense reporting & accounting tool  
 - 🌐 **[AI for Field Force Sizing](https://github.com/yourusername/field-force-sizing-ai)** – intelligent sizing in pharma  
 
