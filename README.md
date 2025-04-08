@@ -40,8 +40,8 @@ Welcome to my GitHub profile – where ideas turn into models, and coffee fuels 
 ---
 
 ### 📫 Let’s Connect  
-- 💼 [LinkedIn](https://linkedin.com/in/akash-devbanshi)
-- 🧪 [Hugging Face](https://huggingface.co/adevbanshi)
+- [![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/adevbanshi)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akash-devbanshi)
 - [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/akashsdevbanshi)
 - 📧 akash.devbanshi@outlook.com  
 ---
