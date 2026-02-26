@@ -4,6 +4,11 @@
 
 Welcome to my GitHub profile – where ideas turn into models, and coffee fuels innovation ☕🚀
 
+I’m an AI/ML professional with over seven years of experience designing and deploying advanced algorithms, from data collection and preprocessing to production-ready models. Skilled in TensorFlow and scikit-learn, I’ve built scalable predictive systems and optimized performance in real-world environments.
+
+Recently, my focus has shifted to generative AI, where I develop precision pipelines, fine-tune models, and automate workflows to deliver high-quality outputs. I’m passionate about integrating AI seamlessly into existing systems to enhance functionality and create better user experiences.
+
+
 ---
 
 ### 👨‍💻 About Me  
