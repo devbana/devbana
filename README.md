@@ -7,8 +7,8 @@ Welcome to my GitHub profile – where ideas turn into models, and coffee fuels 
 ---
 
 ### 👨‍💻 About Me  
-- 💼 AI Manager @ Pfizer (Pharma Industry)  
-- 📊 8+ years in IT | 7+ years in Data Science & AI  
+- 💼 AI Manager @ Pfizer  
+- 📊 8+ years in Data Science & AI  
 - 🌍 Domain Experience: BFSI | Telecom | Healthcare | Pharma  
 - 🤖 Passionate about GenAI, ML, and building end-to-end AI products  
 - 🌱 Currently exploring: Causal AI, MLOps, and Marketing Mix Modeling  
