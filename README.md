@@ -4,7 +4,7 @@
 
 **AI Manager @ Pfizer** · Building Generative AI systems that scale
 
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-adevbanshi-FFD21E?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/adevbanshi)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-adevban-FFD21E?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/adevban)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/akash-devbanshi)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=flat&logo=kaggle)](https://www.kaggle.com/akashsdevbanshi)
 [![Email](https://img.shields.io/badge/Email-akash.devbanshi%40outlook.com-EA4335?style=flat&logo=gmail)](mailto:akash.devbanshi@outlook.com)
@@ -26,12 +26,12 @@ I've worked across **BFSI · Telecom · Healthcare · Pharma** and care deeply a
 ## Stack
 ```python
 skills = {
-  "Languages"   : ["Python", "SQL"],
-  "ML/DL"       : ["PyTorch", "TensorFlow", "Scikit-learn", "Hugging Face"],
-  "GenAI"       : ["LangChain", "RAG pipelines", "LLM fine-tuning"],
-  "Infra"       : ["Docker", "FastAPI", "Airflow", "MLflow", "Streamlit"],
-  "Cloud"       : ["GCP", "Azure", "Snowflake"],
-  "BI"          : ["PowerBI", "Tableau"],
+  "Languages"  : ["Python", "SQL"],
+  "ML / DL"    : ["PyTorch", "TensorFlow", "Scikit-learn", "Hugging Face"],
+  "GenAI"      : ["LangChain", "RAG pipelines", "LLM fine-tuning"],
+  "Infra"      : ["FastAPI", "Docker", "Airflow", "MLflow", "Streamlit"],
+  "Cloud"      : ["GCP", "Azure", "Snowflake"],
+  "BI"         : ["PowerBI", "Tableau"],
 }
 ```
 
@@ -39,21 +39,34 @@ skills = {
 
 ## Projects & Models
 
-| | What it does |
-|---|---|
-| [**GenAI Chatbot Framework**](https://github.com/devbana/chatbot_genai) `GitHub` | Plug-and-play LLM chatbot — drop it into any stack |
-| [**AI Model Notebooks**](https://github.com/devbana/AI_Projects) `GitHub` | End-to-end notebooks: classification, NLP, forecasting, GenAI |
-| [**fine_tuned_pegasus**](https://huggingface.co/adevbanshi/fine_tuned_pegasus) `HF Model` | 570M-param Pegasus fine-tuned on SAMSum for dialogue summarization |
+| | What it does | Where |
+|---|---|---|
+| [**GenAI Chatbot Framework**](https://github.com/devbana/chatbot_genai) | Plug-and-play LLM chatbot — drop into any stack | `GitHub` |
+| [**AI Model Notebooks**](https://github.com/devbana/AI_Projects) | End-to-end notebooks: classification, NLP, forecasting, GenAI | `GitHub` |
+| [**fine_tuned_pegasus**](https://huggingface.co/adevban/fine_tuned_pegasus) | 767M-param Pegasus fine-tuned for dialogue summarization · 29 downloads | `HF Model` |
+| [**insightface_buffao_l**](https://huggingface.co/adevban/insightface_buffao_l) | ONNX face analysis model — InsightFace Buffalo-L variant | `HF Model` |
+| [**SocietyRulesChatbot**](https://huggingface.co/spaces/adevban/SocietyRulesChatbot) | Live Gradio chatbot for society rules Q&A · Running on HF Spaces | `HF Space 🟢` |
 
-> 🤗 More models and experiments on my [Hugging Face profile](https://huggingface.co/adevbanshi) — actively publishing.
+---
+
+## 🤗 Hugging Face · [adevban](https://huggingface.co/adevban)
+
+| Asset | Details |
+|---|---|
+| **fine_tuned_pegasus** · Model | Pegasus · 767.7M params · Dialogue summarization · Feb 2026 |
+| **insightface_buffao_l** · Model | ONNX · Face recognition/analysis · Buffalo-L · Mar 2026 |
+| **SocietyRulesChatbot** · Space | Gradio · Live · Domain-specific LLM chatbot · Mar 2026 |
+
+> Actively building — [huggingface.co/adevban](https://huggingface.co/adevban)
 
 ---
 
 ## A bit more
 
-- 🏏 Cricketer by heart, data scientist by trade  
-- 🌄 Weekend driver and explorer  
-- 🎤 Occasional speaker at AI meetups  
+- 🏏 Cricketer by heart, data scientist by trade
+- 🌄 Weekend driver and explorer
+- 🎤 Occasional speaker at AI meetups
+- 🌱 Open-source advocate
 
 ---
 
