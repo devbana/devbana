@@ -5,8 +5,8 @@
 **AI Manager @ Pfizer** · Building Generative AI systems that scale
 
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-adevban-FFD21E?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/adevban)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/akash-devbanshi)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=flat&logo=kaggle)](https://www.kaggle.com/akashsdevbanshi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-akash_devbanshi-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/akash-devbanshi)
+[![Kaggle](https://img.shields.io/badge/Kaggle-akashsdevbanshi-20BEFF?style=flat&logo=kaggle)](https://www.kaggle.com/akashsdevbanshi)
 [![Email](https://img.shields.io/badge/Email-akash.devbanshi%40outlook.com-EA4335?style=flat&logo=gmail)](mailto:akash.devbanshi@outlook.com)
 
 </div>
