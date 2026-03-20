@@ -1,56 +1,60 @@
+<div align="center">
 
-# 👋 Hello there! I'm **Akash S Devbanshi**
+# Akash S Devbanshi
 
-## 👉 *AI Manager | Building Generative AI solutions that scale | Curious mind, practical builder.*  
+**AI Manager @ Pfizer** · Building Generative AI systems that scale
 
-Welcome to my GitHub profile – where ideas evolve into models, and curiosity fuels innovation ☕🚀  
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-adevbanshi-FFD21E?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/adevbanshi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/akash-devbanshi)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=flat&logo=kaggle)](https://www.kaggle.com/akashsdevbanshi)
+[![Email](https://img.shields.io/badge/Email-akash.devbanshi%40outlook.com-EA4335?style=flat&logo=gmail)](mailto:akash.devbanshi@outlook.com)
 
-I’m an AI/ML professional with 8+ years of experience designing and deploying advanced algorithms, covering the full lifecycle from data collection and preprocessing to production-ready deployment. Skilled in TensorFlow, PyTorch, and scikit-learn, I’ve built scalable predictive systems and optimized performance in real-world environments.  
-
-In recent years, my focus has shifted toward **Generative AI**, where I design precision pipelines, fine-tune models, and automate workflows to deliver high-quality outputs. I’m passionate about integrating AI seamlessly into existing systems, enhancing functionality and creating impactful user experiences.  
-
----
-
-### 👨‍💻 About Me  
-- 💼 **AI Manager @ Pfizer**  
-- 📊 **8+ years in Data Science & AI**  
-- 🌍 **Domain Experience:** BFSI | Telecom | Healthcare | Pharma  
-- 🤖 Passionate about **GenAI, ML, and building end-to-end AI products**  
-- 🌱 Currently exploring: **Causal AI, MLOps, and Marketing Mix Modeling**  
-- ✨ Advocate for **open-source collaboration** and sharing practical AI solutions  
+</div>
 
 ---
 
-### 🔧 Skills & Tools  
-`Python` `SQL` `Pandas` `Scikit-learn` `PyTorch` `TensorFlow` `Hugging Face` `LangChain` `Streamlit`  
-`MLflow` `Docker` `FastAPI` `Airflow` `PowerBI` `Tableau` `Snowflake` `GCP` `Azure`  
+## What I do
+
+8+ years designing and deploying AI/ML systems — from raw data to production. My recent focus is **Generative AI**: precision pipelines, LLM fine-tuning, and automating complex workflows that actually ship.
+
+I've worked across **BFSI · Telecom · Healthcare · Pharma** and care deeply about making AI practical, explainable, and integrated into systems people actually use.
+
+> 🔭 Currently exploring: **Causal AI · Marketing Mix Modeling · MLOps at scale**
 
 ---
 
-### 📦 Projects & Contributions  
-- 🧠 **GenAI Chatbot Framework [(github.com in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fgithub.com%2Fdevbana%2Fchatbot_genai")** – plug-n-play LLM chatbot  
-- 📊 **AI Models [(github.com in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fgithub.com%2Fdevbana%2FAI_Projects")** – AI Model Notebook for various problems  
-- 🌐 Contributor to **open-source AI libraries** and community-driven projects  
+## Stack
+```python
+skills = {
+  "Languages"   : ["Python", "SQL"],
+  "ML/DL"       : ["PyTorch", "TensorFlow", "Scikit-learn", "Hugging Face"],
+  "GenAI"       : ["LangChain", "RAG pipelines", "LLM fine-tuning"],
+  "Infra"       : ["Docker", "FastAPI", "Airflow", "MLflow", "Streamlit"],
+  "Cloud"       : ["GCP", "Azure", "Snowflake"],
+  "BI"          : ["PowerBI", "Tableau"],
+}
+```
 
 ---
 
-### 🧩 Fun Facts  
-- 🏏 Cricketer by heart, data scientist by profession  
+## Projects & Models
+
+| | What it does |
+|---|---|
+| [**GenAI Chatbot Framework**](https://github.com/devbana/chatbot_genai) `GitHub` | Plug-and-play LLM chatbot — drop it into any stack |
+| [**AI Model Notebooks**](https://github.com/devbana/AI_Projects) `GitHub` | End-to-end notebooks: classification, NLP, forecasting, GenAI |
+| [**fine_tuned_pegasus**](https://huggingface.co/adevbanshi/fine_tuned_pegasus) `HF Model` | 570M-param Pegasus fine-tuned on SAMSum for dialogue summarization |
+
+> 🤗 More models and experiments on my [Hugging Face profile](https://huggingface.co/adevbanshi) — actively publishing.
+
+---
+
+## A bit more
+
+- 🏏 Cricketer by heart, data scientist by trade  
 - 🌄 Weekend driver and explorer  
-- 🧳 Curiosity is my superpower  
-- 🎤 Occasional speaker at AI meetups & conferences  
+- 🎤 Occasional speaker at AI meetups  
 
 ---
 
-### 📫 Let’s Connect  
-- [`https://huggingface.co/adevbanshi`](https://huggingface.co/adevbanshi)  
-- LinkedIn [(linkedin.com in Bing)](https://www.bing.com/search?q="https%3A%2F%2Flinkedin.com%2Fin%2Fakash-devbanshi")  
-- Kaggle [(kaggle.com in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fwww.kaggle.com%2Fakashsdevbanshi")  
-- 📧 akash.devbanshi@outlook.com  
-
----
-
-_“Keep wondering, keep building.”_ ✨  
-
-
-
+*"Keep wondering, keep building."*
